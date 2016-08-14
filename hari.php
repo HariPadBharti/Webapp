@@ -1,3 +1,4 @@
+/* In order to make dynamic website, webpage elements are stored in database and being extracted */
 <?php
 include 'serverconnect.php';
 
